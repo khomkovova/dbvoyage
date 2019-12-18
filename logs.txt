@@ -1,0 +1,699 @@
+{
+     "title": "Europe",
+     "id": "11209",
+     "description": "\n'''Europe''' attracts more tourists than any other continent: over 600 million international visitors annually, more than half of the global market. Out of Earth's ten most visited countries, seven are in Europe, with good reason.\n\nAlthough Europe is not one country, the ease of crossing borders might make you think otherwise, and transport infrastructure is generally efficient and well-maintained. At the other end of a short ride on a starkly modern [[high speed train]], a brief [[Flying|flight]], or an easy [[Driving|drive]], you will likely be able to delve into a new [[Phrasebooks#Europe|phrasebook]] and culture.\n\nEurope has cultural heritage dating back [[European history|more than three millennia]]: the continent has seen the rise and fall of [[Ancient Greece]] and the [[Roman Empire]], and birthed the [[Renaissance architecture|Renaissance]] and the [[Industrial tourism|Industrial Revolution]]. Countless kingdoms, republics and empires have left [[archaeological sites]] and [[old towns]] galore, and the most magnificent cathedrals in the world for you to explore. Aside from history, Europe is the home of high culture, is renowned for its diverse cuisines, and is justly celebrated for its exciting and romantic cities.\n\nEurope stretches from the shivering [[Arctic|Arctic Ocean]] in the north, to the pleasantly warm subtropical [[Mediterranean Sea]] in the south, and contains a vast array of temperate climates and variety of landscapes in between. The east of the continent is connected to [[Asia]], and for historical reasons a boundary is usually drawn from the [[Urals|Ural mountains]] via the [[Caucasus]] to the [[Aegean Sea]], while the continent's western extremities jut bracingly into the [[Atlantic Ocean]].\n\n",
+     "regions": [
+          {
+               "name": "[[Balkans]]",
+               "countries": [
+                    {
+                         "title": "Albania",
+                         "id": "537",
+                         "description": "\n'''[http://www.albania.al/ Albania]''' ([[Albanian phrasebook|Albanian]]: ''Shqip\u00ebria'') is a country in the [[Balkans]] with unspoiled beaches, mountainous landscapes, traditional cuisine, archaeological artifacts, unique traditions, low prices and the wild atmosphere of the countryside. The country has an extensive archaeological heritage; it was part of [[Ancient Greece]], the [[Roman Empire]] and the [[Ottoman Empire]] until its first declaration of independence in 1912, and is one of the few traditionally [[Islam|Muslim]] nations in Europe.\n\n",
+                         "first_layer_region_names": [
+                              "[[Coastal Albania]]",
+                              "[[Northeastern Albania]]",
+                              "[[Southeastern Albania]]"
+                         ]
+                    },
+                    {
+                         "title": "Bosnia and Herzegovina",
+                         "id": "4356",
+                         "description": "\n\n'''[http://www.bhtourism.ba/eng/ Bosnia and Herzegovina]''' ([[Bosnian phrasebook|Bosnian]]: ''Bosna i Hercegovina'', \u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430, usually shortened to ''BiH'') is a European country located on the [[Balkans|Balkan Peninsula]]. It used to be part of [[Yugoslavia]] but gained independence in 1992. Mostly mountainous, it has access to a tiny portion of the Adriatic Sea coastline in the south.\n\n",
+                         "first_layer_region_names": [
+                              "[[Bosanska Krajina]]",
+                              "[[Central Bosnia]]",
+                              "[[Herzegovina]]",
+                              "[[Northeastern Bosnia]]",
+                              "[[Posavina]]",
+                              "[[Sarajevo Region]]"
+                         ]
+                    },
+                    {
+                         "title": "Bulgaria",
+                         "id": "5063",
+                         "description": "\n\n[http://bulgariatravel.org/ '''Bulgaria'''], officially the '''Republic of Bulgaria''' ([[Bulgarian phrasebook|Bulgarian:]] \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f), is a country in the [[Balkans]], west of the Black Sea. Bulgaria is one of the few remaining exotic destinations of Europe, because it boasts sublime beaches on its seaside, lovely churches and winter sport opportunities in its mountains, as well as a unique architectural ensemble of modern, classic and ethical styles in each of its cities and towns, to name a few. Although it is not as well travelled as other countries in Europe, it is a beautiful place, with a wide range of activities for the traveller to do. Despite not being a large country (approximately the size of [[Cuba]], [[Portugal]] or the state of [[Virginia]]), Bulgaria offers a wide diversity of landscapes, each possessing its own unique beauty. Because of its natural diversity there is a great number of tourism opportunities in the country.\n\n",
+                         "first_layer_region_names": [
+                              "[[North Bulgaria]]",
+                              "[[Southern Dobruja]]",
+                              "[[Bulgarian Black Sea Coast]]",
+                              "[[Strandzha]]",
+                              "[[Upper Thracian Plain]]",
+                              "[[Rhodope Mountains]]",
+                              "[[Pirin Macedonia]]",
+                              "[[Bulgarian Shopluk]]",
+                              "[[Balkan Mountains]]"
+                         ]
+                    },
+                    {
+                         "title": "Croatia",
+                         "id": "8540",
+                         "description": "\n'''[http://croatia.hr/en-GB/Homepage Croatia]''' ([[Croatian phrasebook|Croatian]]: ''Hrvatska'') is a Mediterranean country that bridges [[Central Europe]] and the [[Balkans]].\n\n",
+                         "first_layer_region_names": [
+                              "[[Istria]] (''Istra'')",
+                              "[[Kvarner]]",
+                              "[[Dalmatia]] (''Dalmacija'')",
+                              "[[Slavonia]] (''Slavonija'')",
+                              "[[Central Croatia]] (''Sredi\u0161nja Hrvatska'')"
+                         ]
+                    },
+                    {
+                         "title": "Kosovo",
+                         "id": "18133",
+                         "description": "\n'''[http://www.visitkosova.org/ Kosovo]''' ([[Albanian]]: ''Kosova'', [[Serbian]]: K\u043e\u0441\u043e\u0432\u043e \u0438 \u041c\u0435\u0442\u043e\u0445\u0438\u0458\u0430, ''Kosovo i Metohija'') is a largely mountainous country in [[Balkans|South Eastern Europe]].\n\n{{disclaimerbox|While the independence of Kosovo is disputed by some states, from a traveller's perspective it exercises control over its land, with its own entry requirements. For this reason, Wikivoyage treats Kosovo as a country, without endorsing or refuting either side of the debate.}}\n\n",
+                         "first_layer_region_names": [
+                              "Central Kosovo",
+                              "Western Kosovo",
+                              "Southern Kosovo",
+                              "Northern Kosovo",
+                              "South-eastern Kosovo"
+                         ]
+                    },
+                    {
+                         "title": "Moldova",
+                         "id": "22671",
+                         "description": "\n{{confused|the neighbouring [[Romania]]n region of [[Moldavia]]}}\n\n'''[http://www.moldova.md/en Moldova]''' is a small land-locked country in [[Europe|Eastern Europe]] surrounded by [[Romania]] to the southwest and [[Ukraine]] to the north and east.\n\n",
+                         "first_layer_region_names": [
+                              "[[Moldova]]|region1description=The part of Moldova controlled by the Moldovan Government.|region1color=#7cc576|region2color=#7eb19a|region2name=[[Transnistria]]|region2description=One of the last places to visit a Stalinist dictatorship; a separate country from Moldova but claimed by the Moldovan Government as part of Moldova.}}"
+                         ]
+                    },
+                    {
+                         "title": "Montenegro",
+                         "id": "22802",
+                         "description": "\n'''[http://www.montenegro.travel/ Montenegro]''' ([[Montenegrin phrasebook|Montenegrin]]: ''Crna Gora'', \u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430) is a country in the [[Balkans]], on the Adriatic Sea.\n\nIt is one of Europe's youngest countries, independent since 2006. Infrastructure greatly improved since independence as Montenegro became home to numerous five-star hotels, glamorous new settlements and investments in roads, energy, water and sanitary pipelines.\n\n",
+                         "first_layer_region_names": [
+                              "[[Bay of Kotor]]",
+                              "[[Budva Riviera]]",
+                              "[[Central Montenegro]]",
+                              "[[Montenegrin South Coast]]",
+                              "[[North Montenegrin Mountains]]"
+                         ]
+                    },
+                    {
+                         "title": "North Macedonia",
+                         "id": "29499",
+                         "description": "\n{{otheruses|Macedonia}}\nThe Republic of [http://www.exploringmacedonia.com '''North Macedonia'''] ([[Macedonian phrasebook|Macedonian]]: \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430, ''Severna Makedonija''; formerly the Republic of Macedonia, also FYROM and FYR Macedonia, [[Macedonian phrasebook|Macedonian]]: \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430, ''Makedonija'') is a landlocked country in the heart of the [[Balkans]].\n\nThe majority of the population is ethnic Macedonian and Orthodox Christian but there is also a significant Albanian Muslim minority. One can expect a wonderful mix of architectural and ethnic heritage. The country represents the Balkans in the truest sense, consisting of a fascinating mix of Macedonian, Albanian, Turkish, and Mediterranean influences.\n\n",
+                         "first_layer_region_names": [
+                              "[[Povardarie]]",
+                              "[[Western North Macedonia]]",
+                              "[[Eastern North Macedonia]]"
+                         ]
+                    },
+                    {
+                         "title": "Romania",
+                         "id": "29983",
+                         "description": "\n'''[http://www.romaniatourism.com/ Romania]''' ([[Romanian phrasebook|Romanian]]: ''Rom\u00e2nia'') is a country on the western shores of the Black Sea; except for [[Northern Dobruja|Dobruja]], it is north of the [[Balkans|Balkan Peninsula]]. It is a country of great natural beauty and diversity and a rich cultural heritage, including a variety of ethnic, linguistic, and confessional groups. Romania enchants visitors with its scenic mountain landscapes and unspoilt rural areas, but also with its historic cities and busy capital. It has seen significant development and is one of the most recent members of the European Union. Still, it may surprise some of its visitors who are used to western Europe. It has six cultural and one natural [[UNESCO#Romania|UNESCO world heritage sites]].\n\nRomania is a large country which can sometimes be shocking with contrasts: some cities are truly modern, while some villages can seem to have been brought back from the past. While it has significant cultural similarities with other Balkan states, it is regarded as unique due to its strong Latin heritage, reflected in every part of Romanian society from its culture to its language. Things for which Romania is famous include: the Carpathian mountains, wine, medieval fortresses, Dacia cars, Dracula, stuffed cabbage leaves (''sarmale''), the Black Sea, sunflower fields, painted monasteries and the Danube Delta.\n\n",
+                         "first_layer_region_names": [
+                              "[[Transylvania]]",
+                              "[[Banat]]",
+                              "[[Oltenia]]",
+                              "[[Southern Bukovina]]",
+                              "[[Maramure\u0219]]",
+                              "[[Cri\u0219ana]]",
+                              "[[Northern Dobruja]]",
+                              "[[Moldavia]]",
+                              "[[Muntenia]]"
+                         ]
+                    },
+                    {
+                         "title": "Serbia",
+                         "id": "32194",
+                         "description": "\n'''[http://www.serbia.travel/ Serbia]''' ([[Serbian phrasebook|Serbian]]: \u0421\u0440\u0431\u0438\u0458\u0430, ''Srbija'') is a country at the crossroads of [[Central Europe]] and the [[Balkans]], on one of the major land routes from [[Central Europe]] to the [[Middle East|Near East]].\n\nSerbia is a relatively new tourist destination. During the summer tourists love spending their time in [[Belgrade]] and enjoy the nature of many national parks throughout the country. In winter, they are attracted to the mountain resorts, one of the most popular being [[Kopaonik]]. There are also many spa resorts such as [[Sokobanja]], [[Ni\u0161ka Banja]] and [[Vrnja\u010dka Banja]].\n\nSerbia was developed as a tourist destination much later than neighbouring [[Croatia]], although it is also a varied and beautiful nation. From the plains of [[Vojvodina]] that remind one of the scenes of 'Dr. Zhivago' in winter, to many mountains, lakes and ski resorts.\n\nSerbia is on the crossroads of European history and as such, it is a mix of cultures, ethnicity and religions. Its people, contrary to a recent political issues, are one of the most hospitable and welcoming and Belgrade was voted as one of the up-and-coming capitals of Europe. Serbia has a spirit and a soul that is rare to find coupled with melange of different cultures and a gusto for good living.\n\n",
+                         "first_layer_region_names": [
+                              "[[Belgrade]]",
+                              "[[Podunavlje]]",
+                              "[[Podrinje]]",
+                              "[[\u0160umadija]]",
+                              "[[Vojvodina]]",
+                              "[[Kosovo]]"
+                         ]
+                    }
+               ],
+               "description": "A rich and often turbulent history, with wonderful nature, charming multicultural towns, impressive monasteries and citadels dotting the hillsides, and mighty mountains liberally sprinkled with beautiful forests and pleasant lakes."
+          },
+          {
+               "name": "[[Baltic states]]",
+               "countries": [
+                    {
+                         "title": "Estonia",
+                         "id": "11164",
+                         "description": "\n'''[http://www.visitestonia.com Estonia]''' ([[Estonian phrasebook|Estonian]]: ''Eesti'') is a [[Baltic states|Baltic]] gem offering visitors the chance to see a tiny dynamic land on the shores of the sea.\n\nThe northernmost and smallest of the Baltic states, the country has charming [[old towns]] and heritage back to the [[Hanseatic League]]. [[Tallinn]]'s medieval old town was built by the Germans in Middle Ages and is in magnificent condition, with the medieval city walls and towers almost completely intact, and it rates as one of Europe's best medieval old towns. Visitors can also experience an ex-Soviet republic that is now part of the European Union. Traces of the Soviet era are still there to be seen, e.g. [[Paldiski]], a deserted Soviet army base that was once off-limits to Estonians themselves, can easily be visited on a day trip from the capital, Tallinn. Estonia is renowned for its bucolic islands and extensive bogs that are now national parks with easy access for tourists. Glorious beaches pepper the extensive coastline, although the swimming season is short\u2014after all, the Baltics are not renowned for warm weather.\n\n",
+                         "first_layer_region_names": [
+                              "[[North Estonia]]",
+                              "[[East Estonia]]",
+                              "[[West Estonia and Islands]]",
+                              "[[South Estonia]]"
+                         ]
+                    },
+                    {
+                         "title": "Latvia",
+                         "id": "19213",
+                         "description": "\n[http://www.latvia.travel/en '''Latvia'''] ([[Latvian phrasebook|Latvian]]: ''Latvija'') is one of the three [[Baltic states]] in [[Europe]].\n\nThe most famous travel spot is the capital [[Riga]], whose Old Town is a [[World Heritage Site]]. There are many other great places to see, both urban and rural alike. Examples such as the city of [[Liep\u0101ja]] with its magnificent beach and the unique formerly secret military neighborhood of Karosta, [[Kuldiga]] with Europe's widest waterfall and [[C\u0113sis]] with its medieval castle ruins are just some of the various sights. Latvia's unspoilt sea coast is a 500&amp;nbsp;km long wild beauty, mainly consisting of white, soft sandy beaches. Forests cover approximately half of Latvia's territory and are home to many nature trails and nature parks.\n\n",
+                         "first_layer_region_names": [
+                              "[[Riga region]]",
+                              "[[Vidzeme]]",
+                              "[[Kurzeme]]",
+                              "[[Zemgale]]",
+                              "[[Latgale]]"
+                         ]
+                    },
+                    {
+                         "title": "Lithuania",
+                         "id": "19864",
+                         "description": "\n'''[http://www.lietuva.lt/ Lithuania]''' ([[Lithuanian phrasebook|Lithuanian]]: ''Lietuva'') is a [[Baltic states|Baltic country]] in northeastern [[Europe]].\n\n",
+                         "first_layer_region_names": [
+                              "[[Auk\u0161taitija]]",
+                              "[[Samogitia]]",
+                              "[[Dz\u016bkija]]",
+                              "[[S\u016bduva]]",
+                              "[[Lithuania Minor]]"
+                         ]
+                    }
+               ],
+               "description": "Fascinating states with glorious beaches along an extensive coastline, medieval towns, and beautiful natural scenery."
+          },
+          {
+               "name": "[[Benelux]]",
+               "countries": [
+                    {
+                         "title": "Belgium",
+                         "id": "3273",
+                         "description": "\n\nA low-lying country in the [[Benelux]], [http://www.visitbelgium.com '''Belgium'''] ([[Dutch phrasebook|Dutch]]: ''Belgi\u00eb'', [[French phrasebook|French]]: ''Belgique'', [[German phrasebook|German]]: ''Belgien'') sits at the crossroads of Western Europe. It marries the historical landmarks for which the continent is famous with spectacular modern architecture and rural idylls. Its capital, [[Brussels]], is home to the headquarters of the [[European Union]].\n\nDespite this, Belgium is not without its divisions. On the contrary, Flanders, the northern part of the country that speaks Dutch, and Wallonia, the southern French-speaking area, are frequently at loggerheads and it sometimes seems that their quarrels will split the country in two. Yet, despite this apparent incompatibility, the two halves of Belgium come together to form a country that contains some of Europe's most attractive and historical cities and is a true 'must-see' for any visitor to the continent.\n\n",
+                         "first_layer_region_names": [
+                              "[[Flanders]]",
+                              "[[Brussels]]",
+                              "[[Wallonia]]"
+                         ]
+                    },
+                    {
+                         "title": "Luxembourg",
+                         "id": "20560",
+                         "description": "\n{{otheruses}}\nThe '''[http://www.visitluxembourg.com/en Grand Duchy of Luxembourg]''' (Luxembourgish: ''Groussherzogtum L\u00ebtzebuerg'', [[French phrasebook|French]]: ''Grand-Duch\u00e9 de Luxembourg'', [[German phrasebook|German]]: ''Gro\u00dfherzogtum Luxemburg''), is a landlocked [[Benelux]] country at the crossroads of Germanic and Latin cultures.\n\nWith successful steel, finance and high technology industries, a strategic location at the heart of Western Europe, more natural beauty than you might expect given its size, and as one of the top three richest countries in the world, Luxembourg enjoys a very high standard of living and has prices to match!\n\n",
+                         "first_layer_region_names": [
+                              "[[Guttland]] / Central Luxembourg",
+                              "[[Land of the Red Rocks]]",
+                              "[[Luxembourgian Ardennes]]",
+                              "[[Moselle District]]",
+                              "[[Mullerthal]]"
+                         ]
+                    },
+                    {
+                         "title": "Netherlands",
+                         "id": "24144",
+                         "description": "\n{{redirect|Holland}}\n{{redirect|Nederland}}\nThe '''[http://www.holland.com Netherlands]''' ([[Dutch]]: ''Nederland'') is a charming small country in the low-lying river delta of northwestern [[Europe]]. Its landscape of famously flat lands, much of it reclaimed from the sea, is dotted with windmills, blooming tulip fields and picturesque villages. With over 17 million people living in a relatively small area, this is a densely populated modern European country. Still, even the largest of its cities have retained a rather laid-back small-town atmosphere and many are packed with historic heritage.\n\nThe country is commonly referred to as '''Holland''', but this name refers only to two of its twelve provinces and is unpopular among Dutch people who aren't from North or South Holland.\n\nAfter the Eighty Years' War (1568-1648) that led to the country's ''de facto'' independence from Spain in 1581, the Netherlands became a great naval power and one of the world's most powerful nations in a period known as the Dutch Golden Age. Because of its naval and trading history, this small nation boasts a wealth of cultural heritage visible in many towns across the country. This period also constituted a cultural peak that produced renowned painters like Rembrandt and Vermeer. Their works and many others fill the top-class Dutch museums that attract hundreds of thousands of visitors each year.\n\nOver the course of centuries, the Netherlands has gained a reputation for tolerance and progressivism: the country was the first in the world to legalize same-sex marriage and Dutch people generally have an open attitude to [[cannabis]] and prostitution. As a founding member of the EU and NATO and host to the International Court of Justice in The Hague, the Netherlands is at the heart of international cooperation.\n\nWith its international airport [[Schiphol Airport|Schiphol]] and its advanced network of motorways and international [[high speed train]] lines, the Netherlands is easy to reach from anywhere. Its small size, welcoming attitude and interesting sights make it a unique and easy to discover destination and a great addition to any European trip.\n\n",
+                         "first_layer_region_names": [
+                              "[[Western Netherlands]]",
+                              "[[Northern Netherlands]]",
+                              "[[Eastern Netherlands]]",
+                              "[[Southern Netherlands]]"
+                         ]
+                    }
+               ],
+               "description": "A largely flat area with a lot to offer. The Netherlands is known for its clogs, cheese, tulips, windmills, painters, and liberal attitudes. Belgium is a multilingual country with beautiful historic cities, bordering Luxembourg at the rolling hills of the [[Ardennes]]."
+          },
+          {
+               "name": "[[Britain and Ireland]]",
+               "countries": [
+                    {
+                         "title": "Guernsey",
+                         "id": "13621",
+                         "description": "\n{{quickbar|location=LocationGuernsey.png}}\n\nThe '''[http://www.visitguernsey.com Bailiwick of Guernsey]''' ([[French phrasebook|French]]: ''Guernesey'', Guernesiais: ''Guern\u00e9si'', Sercquiais: ''Gyern\u00ebzi'') is a group of islands in the English Channel, part of the '''[[Channel Islands]]'''. Guernsey itself is the main island, some 50 miles west of Normandy; it's about 6 miles long by 3 miles wide, with St Peter Port as its chief settlement.\n\nIn 1066 William Duke of Normandy gained the crown of England, so his descendants ruled many parts of France as well as ruling England. A series of wars, and peace treaties followed by more wars, wrested control of French territory away from England to the growing kingdom of France, until all that remained were the Channel Islands. And so they remain today. The Bailiwick of Guernsey, like that of Jersey, is therefore a &quot;Crown Dependency&quot;. The Channel Islands are not subject to the UK parliament or legislation or - crucially - taxation in any way, but they cede control of defence and most international affairs to the UK. The rules of this arrangement are unwritten and all parties have shied away from testing them. \n\nGuernsey grew up as a fishing port but from 1700 found that smuggling paid better, as mainland taxes rose sharply. Even more lucrative was piracy (illegal) and privateering (much the same thing, but legal if it was against the King's enemies). The islands were occasionally fought over (eg during the English Civil Wars), but more often they were heavily fortified against invasions that never came. One such phase was during the French Revolutionary and Napoleonic Wars, another was during the German occupation of the Second World War. So as they weren't attacked, the fortifications remain in good condition, and provide some of the main sights on Guernsey.\n\nPost-war development was faltering: light industry, tomatoes &amp; horticulture (undercut by the Dutch), and offshore finance (risky even when legitimate). Mass tourism never really started, and so Guernsey has concentrated on high-end tourism. Come here and feel like a swell. \n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    },
+                    {
+                         "title": "Ireland",
+                         "id": "15723",
+                         "description": "\n{{hatnote|This article does not cover [[Northern Ireland]], which is part of the [[United Kingdom]].}}\n[http://www.ireland.com '''Ireland'''] ([[Irish phrasebook|Irish]]: '''''\u00c9ire'''''), also known as the '''Republic of Ireland''' (Irish: ''Poblacht na h\u00c9ireann''), has a rich culture that, along with its people, has been exported around the world.\n\nIreland, in fact, has two cultures: the historical Gaelic culture (including one of the oldest literatures in Western Europe) and the more recent English-speaking culture which largely replaced it.&lt;!--Erm, this could be reworded? --&gt; It can be worth your while to dig a little deeper before visiting Ireland to discover something about the older world that lies beneath. It is a world still living, though not always visible.\n\nSome Irish history has been very dark indeed, but it remains a land of poets, story-tellers, and musicians, with marvellous scenery, an advanced knowledge economy, first-rate infrastructures, and leading industries, with a high gross domestic product and standard of living.\n\n",
+                         "first_layer_region_names": [
+                              "[[East Coast and Midlands]]",
+                              "[[Shannon Region]]",
+                              "[[Southwest Ireland]]",
+                              "[[West Ireland]]",
+                              "[[Northwest Ireland and Lakelands]]",
+                              "[[Southeast Ireland]]"
+                         ]
+                    },
+                    {
+                         "title": "Isle of Man",
+                         "id": "15848",
+                         "description": "\n{{quickbar|location=LocationIsleofMan.png}}\n\nThe '''[http://www.visitisleofman.com/ Isle of Man]''' (in [[Manx Gaelic phrasebook|Manx]]: ''Ellan Vannin'') is a picturesque island in the [[British Isles]], located in the Irish Sea between the islands of [[Great Britain]] and [[Ireland]]. It is a [[United Kingdom|British]] Crown dependency and therefore not part of the United Kingdom itself; the UK is responsible for defence and foreign affairs.\n\nThe island has its own government, headed by a Chief Minister, and has a parliament called the &quot;Tynwald&quot;. This consists of the democratically elected House of Keys and the nominated Legislative Council. The Isle of Man is not a full member of the European Union, but is an associate member.\n\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    },
+                    {
+                         "title": "Jersey",
+                         "id": "16278",
+                         "description": "\n{{confused|[[New Jersey]], a state in the USA}}\n\n'''Jersey''' is the largest and southernmost of the [[Channel Islands]]. It's a self-governing Dependency of the British Crown, but not part of the United Kingdom. It lies 14 miles west of the Cherbourg peninsula of France in the Bay of St Malo, rather than in the Channel proper. \n\nWith a resident population of just under 100,000, Jersey extends some ten miles east-west and six miles north-south. The main town, with a third of the population, is '''St Helier''' on the southeast coast. This is the capital and ferry port, guarded by Elizabeth Castle on a tidal island, and has many visitor attractions and facilities. A broad bay sweeps west to '''St Aubin''' which is separated by the Portelet headland from '''St Br\u00e9lade''' on another bay with sandy beaches. Most visitors stay in this part of the island, two miles south of the airport. The rest of Jersey is gently rolling country, a quiltwork of small fields with small, straggling villages named for their parish church: St Peter (location of the airport), St Ouen, St Mary, Grouville, Trinity, St John and St Martin. Three others that have become absorbed into St Helier are St Saviour, St Lawrence and St Clement.\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    },
+                    {
+                         "title": "United Kingdom",
+                         "id": "37266",
+                         "description": "\nThe [http://www.visitbritain.com/ '''United Kingdom of Great Britain and Northern Ireland'''] (the ''United Kingdom'' or the ''UK'') is a constitutional monarchy comprising most of the [[Britain and Ireland|British Isles]]. It is a political union of four nations: '''[[England]]''', '''[[Northern Ireland]]''', '''[[Scotland]]''' and '''[[Wales]]''', each of which has something unique and exciting to offer the traveller while remaining undeniably British.\n\nThe UK is a diverse patchwork of native and immigrant cultures, possessing both a fascinating history and dynamic modern attractions. This is a country known for its eccentric and subversive popular culture, its creation of five major sports (golf, [[rugby football|rugby]], [[cricket]], lawn tennis and, of course, [[Association Football in Europe|football]]) and for having a music scene that may be the best in the world. Witness thousands of years of history \u2013 stone circles, castles, thatched cottages and palaces; in these islands the past comes alive.\n\nThe capital and largest city is [[London]], a truly global metropolis like no other, and many of the country\u2019s other cities have much to offer. To understand their sheer diversity, compare genteel [[Oxford]] with brooding [[Edinburgh]], gentrifying [[Manchester]], musical [[Liverpool]], sports-mad [[Cardiff]], the cultural melting pot of [[Birmingham]] or newly thriving [[Belfast]], while remembering these are but the tip of the iceberg. Although Britannia no longer rules the waves, it continues to be hugely influential in the wider world and welcomes over 30 million visitors to its shores each year.\n\nWhether you wish to walk in the steps of giants in [[County Antrim|Antrim]], to immerse yourself in Celtic culture at [[Wales#Do|Eisteddfod]], to pound the streets of an [[England#Cities|English urban jungle]], to climb, ski or snowboard [[Cairngorms]]-style or simply to [[London/Westminster#Buckingham Palace|dream of]] having tea with the Queen, there is something for everyone in the United Kingdom.\n\n",
+                         "first_layer_region_names": [
+                              "[[England]]",
+                              "[[Scotland]]",
+                              "[[Wales]]",
+                              "[[Northern Ireland]]",
+                              "[[Channel Islands]]",
+                              "[[Isle of Man]]"
+                         ]
+                    }
+               ],
+               "description": "Britain has a patchwork of native and immigrant cultures, plus a fascinating history and dynamic modern culture, both of which remain hugely influential in the world. Ireland has rolling landscapes and characteristic customs, traditions and folklore."
+          },
+          {
+               "name": "[[Caucasus]]",
+               "countries": [
+                    {
+                         "title": "Armenia",
+                         "id": "1583",
+                         "description": "\n{{otheruses}}\n'''[https://armenia.travel Armenia]''' (Armenian: \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576 ''Hayastan'') is a landlocked country in the [[Caucasus]]. This former Soviet republic straddles [[Asia]] and [[Europe]] and boasts an ancient and rich culture.\n\n",
+                         "first_layer_region_names": [
+                              "[[Central Armenia]]",
+                              "[[Lake Sevan Region]]",
+                              "[[Northern Armenia]]",
+                              "[[Southern Armenia]]",
+                              "[[Nagorno-Karabakh]]"
+                         ]
+                    },
+                    {
+                         "title": "Azerbaijan",
+                         "id": "2139",
+                         "description": "\n{{about|North Azerbaijan, an independent country|South Azerbaijan|Iranian Azerbaijan}}\n[http://azerbaijan.travel/en '''Azerbaijan'''] ([[Azerbaijani phrasebook|Azerbaijani]]: ''Az\u0259rbaycan'') is a former Soviet republic in the [[Caucasus]] and variously considered part of [[Europe]] or [[Asia]]. It is nicknamed the Land of Fire.\n\n{{Warningbox|Armed conflicts occur at and near the virtual border between the Nagorno-Karabakh region and the surrounding military-occupied area in Azerbaijan. Western governments advise against travelling there because of diplomatic difficulties in case of incidents with their citizens in that region. In the rest of Azerbaijan, there is some risk of civil unrest and terrorist attacks.\n|uk=https://www.gov.uk/foreign-travel-advice/azerbaijan\n|us=https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/azerbajian-travel-advisory.html\n|nz=https://www.safetravel.govt.nz/azerbaijan\n|canada=https://travel.gc.ca/destinations/azerbaijan\n|de=https://www.auswaertiges-amt.de/de/aserbaidschansicherheit/201888\n|lastedit=2018-08-10}}\n",
+                         "first_layer_region_names": [
+                              "[[Baku Region]]",
+                              "[[Ganja Region]]",
+                              "[[Sheki Region]]",
+                              "[[Northeastern Azerbaijan]]",
+                              "[[Nakhchivan (region)|Nakhchivan]]",
+                              "[[Southern Azerbaijan]]",
+                              "[[Talysh Region]]"
+                         ]
+                    },
+                    {
+                         "title": "Georgia (country)",
+                         "id": "12625",
+                         "description": "\n{{pagebanner |Kazbeg banner.jpg|pgname=Georgia}}\n'''[http://www.georgia.travel/ Georgia]''' ([[Georgian phrasebook|Georgian]]: \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd, ''Sakartvelo'') is a country in the [[Caucasus]]. Sandwiched between [[Russia]] in the north and [[Turkey]] in the south, it sits along the coast of the [[Black Sea]]. It is a rather mountainous country and is home to some of [[Europe]]\u2019s highest mountain peaks. Despite its modest size, Georgia presents a large mix of other landscapes and micro-climates, ranging from dry wine-growing valleys in the east, to lush [[Batumi|Black Sea resorts]] in the west. In [[Greece|Greek]] mythology, Georgia was the site of the famous Golden Fleece sought by Jason and the Argonauts. The tales of Georgia's ancient history are not without foundation; modern archaeological evidence suggests that Georgia is the oldest winemaking country in the world, with some wine samples dating back to 6,000 years BC. In testament to this rich heritage, Georgia's cities and countryside are complete with medieval churches, several of which are [[UNESCO World Heritage Sites]]. Enjoying low levels of crime and corruption, since the mid-2000s Georgia has developed into a fast-growing destination. The country's tourist infrastructure continues to expand. \n\n",
+                         "first_layer_region_names": [
+                              "[[Kartli]]",
+                              "[[Rioni Region]]",
+                              "[[Kakheti]]",
+                              "[[Southwestern Georgia]]",
+                              "[[Northwestern Georgia]]",
+                              "[[Samtskhe-Javakheti]]",
+                              "Disputed Territories"
+                         ]
+                    }
+               ],
+               "description": "The Caucasus is a mountain range lying between the Black Sea and the Caspian Sea, part of the boundary between Europe and [[Asia]]. It is a dense, warm, friendly and generally safe region, with diverse landscapes and a wealth of ancient churches, cathedrals and monasteries."
+          },
+          {
+               "name": "[[Central Europe]]",
+               "countries": [
+                    {
+                         "title": "Austria",
+                         "id": "2010",
+                         "description": "\n\n'''[http://www.austria.info/ Austria]''' ([[German phrasebook|German]]: ''\u00d6sterreich'', literally &quot;the Eastern Realm&quot; or &quot;Eastern Empire&quot;) is a landlocked [[Alps|alpine]] German-speaking country in [[Central Europe]]. Austria, along with neighboring Switzerland, is the winter sports center of Europe. However, it is just as popular for summer tourists who visit its historic cities and villages and hike in the magnificent scenery of the Alps.\n\n",
+                         "first_layer_region_names": [
+                              "[[Burgenland]]",
+                              "[[Carinthia]]",
+                              "[[Lower Austria]]",
+                              "[[Salzburg (state)|Salzburg]]",
+                              "[[Styria]]",
+                              "[[Tyrol]]"
+                         ]
+                    },
+                    {
+                         "title": "Czech Republic",
+                         "id": "8824",
+                         "description": "\nThe '''[http://www.czechtourism.com Czech Republic]''' ([[Czech phrasebook|Czech]]: ''\u010cesk\u00e1 republika''), or '''[http://www.czech.cz Czechia]''' (''\u010cesko'') is a landlocked country in [[Central Europe]]. It is not a large country but has a rich and eventful history. Czechs, Germans, Slovaks, Italian stonemasons and stucco workers, French tradesmen and deserters from Napoleon's army have lived and worked here, all influencing one another. For centuries they jointly cultivated their land, creating works that grace this small country with hundreds of ancient castles, monasteries and stately mansions, and entire towns that give the impression of being comprehensive artefacts. The Czech Republic contains a vast number of architectural treasures and has beautiful forests and mountains to match.\n\n",
+                         "first_layer_region_names": [
+                              "[[Central Bohemia]] (Central Bohemia Region and capital city of Prague)",
+                              "[[West Bohemia]] (Karlovy Vary Region and Pilsen Region)",
+                              "[[North Bohemia]] (Usti nad Labem Region and Liberec Region)",
+                              "[[East Bohemia]] (Hradec Kr\u00e1lov\u00e9 Region and Pardubice Region)",
+                              "[[South Bohemia]] (South Bohemia Region)",
+                              "[[Highlands (Czech Republic)|Highlands]] (Vyso\u010dina Region)",
+                              "[[North Moravia and Silesia]] (Olomouc Region and Moravia-Silesia Region)",
+                              "[[South Moravia]] (South Moravia Region and Zl\u00edn Region)"
+                         ]
+                    },
+                    {
+                         "title": "Germany",
+                         "id": "12645",
+                         "description": "\n[[File:German-flag-Kaub.jpg|thumb|right|Gutenfels Castle above the [[Middle Rhine Valley|Rhine]]]]\n[http://www.germany-tourism.de/ '''Germany'''] ([[German phrasebook|German]]: ''Deutschland''), officially the '''Federal Republic of Germany''' (''Bundesrepublik Deutschland'') is the largest country in [[Central Europe]] and the most populous EU state.\n\nGermany has historically been and still is politically, economically and culturally influential and the largest EU member state by population and economic output. Known around the world for &quot;German engineering&quot; as well as world leading banking and insurance companies, it is equally admired by visitors for its old-world charm and ''Gem\u00fctlichkeit'' (cosiness). Discard any perceptions of Germany as simply homogeneous, and a country of surprising regional diversity awaits.\n\n",
+                         "first_layer_region_names": [
+                              "Northern Germany",
+                              "Western Germany",
+                              "Central Germany",
+                              "Eastern Germany",
+                              "Southern Germany"
+                         ]
+                    },
+                    {
+                         "title": "Hungary",
+                         "id": "15219",
+                         "description": "\n[https://hellohungary.com/en'''Hungary'''] ([[Hungarian phrasebook|Hungarian]]: ''Magyarorsz\u00e1g'') is an [[European Union|EU]] member state featuring a gorgeous capital city, [[Budapest]], and the largest lake in [[Central Europe]], [[Lake Balaton|Balaton]]. Hungary offers many diverse destinations: relatively low mountains in the north-west, the Great Plain in the east, lakes and rivers of all sorts, and many beautiful small villages and hidden gems of cities. Top this off with Hungary's great accessibility in the middle of Europe, a vivid culture and economy, and you get a destination absolutely worth visiting if you're in the region.\n\n",
+                         "first_layer_region_names": [
+                              "[[Central Hungary]]",
+                              "[[Lake Balaton]]",
+                              "[[Western Transdanubia]]",
+                              "[[Northern Hungary]]",
+                              "[[Northern Great Plain]]",
+                              "[[Southern Great Plain]]",
+                              "[[Central Transdanubia]]",
+                              "[[Southern Transdanubia]]"
+                         ]
+                    },
+                    {
+                         "title": "Liechtenstein",
+                         "id": "19652",
+                         "description": "\nThe '''[http://www.tourismus.li/en/welcome.cfm Principality of Liechtenstein]''' ([[German phrasebook|German]]: [http://www.liechtenstein.li/ ''F\u00fcrstentum Liechtenstein'']) is a tiny, alpine, German-speaking country landlocked by [[Switzerland]] and [[Austria]].\n\nThe principality enjoys a very high standard of living and is home to some incredibly beautiful mountain scenery. The principality's capital, [[Vaduz]], is a major centre of commerce and international banking.\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    },
+                    {
+                         "title": "Poland",
+                         "id": "27969",
+                         "description": "\n{{otheruses}}\n[[File:Ayuntamiento Principal, Gdansk, Polonia, 2013-05-20, DD 01.jpg|thumbnail|right|[[Gda\u0144sk]]]]\n[[File:Wieliczka salt mine.jpg|thumbnail|right|Wieliczka salt mine]]\n'''[http://www.poland.travel/en Poland]''' ([[Polish phrasebook|Polish]]: ''Polska'') is a [[Central Europe]]an country that has, for the last few centuries, sat at the crossroads of three of Europe's great empires. As a result, it has a rich and eventful history, and a strong basis for its booking tourism industry. \n\nIts heritage is reflected in its architecture, museums, galleries and monuments. Its landscape is varied, and extends from the [[Baltic Sea]] coast in the north to the [[Tatra Mountains]] in the south. In between, lush primeval forests are home to fascinating species of animals including bisons in [[Bia\u0142owie\u017ca]]; beautiful lakes and rivers for various watersports, the best known of which are in [[Warmi\u0144sko-Mazurskie]]; rolling hills; flat plains; and deserts. Among Poland's cities you can find the perfectly preserved Gothic old town of [[Toru\u0144]], Hanseatic heritage in [[Gda\u0144sk]] and evidence of the 19th-century industrial boom in [[\u0141\u00f3d\u017a]].\n\nToday's Poland has a very homogenous society in terms of ethnicity, language and religion. The historical Republics of Poland, whose boundaries were very different from those of today, were very multi-cultural, and, for a period, Poland was known as Europe's most religiously tolerant. Poland held Europe's largest Jewish population, which was all but wiped out by the Holocaust of World War II and after the war by the anti-Semitic communist government. \n\nPoland's western regions, including large parts of [[Lower Silesia]], [[Lubuskie]] and [[Zachodniopomorskie]], were parts of neighbouring [[Germany]] at different periods of time. The natural border of mountain ridges separating Poland from its southern neighbours, the [[Czech Republic]] and [[Slovakia]], did not stop the cultural influence (and periodic warring). In the middle ages, Poland was part of a powerful Commonwealth with [[Lithuania]] that governed much of today's [[Belarus]] and [[Ukraine]]. The cultural evidence of it can be found closer to the present-day borders. Lastly, the entire eastern half of Poland used to be controlled by the Russian Empire, and there was a strong Soviet influence during the communist era, leaving behind many traces in both culture and built heritage.\n\nDespite losing a third of its population, including a disproportionally large part of its elites, in World War II, and suffering many economic setbacks as a Soviet satellite state afterwards, Poland in many ways flourished culturally in the 20th century. Paving the way for its fellow Soviet-block states, Poland had a painful transition to democracy and capitalism in the late 1980s and 90s. In the 21st century, Poland joined the [[European Union]] and has enjoyed continuous economic growth unlike any other EU country. This has allowed it to markedly improve its infrastructure and had a profound effect on its society. Creative and enterprising, Poles continually come up with various ideas for events and festivals, and new buildings and institutions spring up almost before your eyes, so that every time you come back, you are bound to discover something new.\n\n",
+                         "first_layer_region_names": [
+                              "Central Poland",
+                              "Southern Poland",
+                              "Southwestern Poland",
+                              "Northwestern Poland",
+                              "Northern Poland",
+                              "Eastern Poland"
+                         ]
+                    },
+                    {
+                         "title": "Slovakia",
+                         "id": "33061",
+                         "description": "\n'''[http://www.slovakia.travel Slovakia]''' ([[Slovak phrasebook|Slovak]]: ''Slovensko'') or the '''Slovak Republic'''  (''Slovensk\u00e1 republika'') is a country in [[Central Europe]]. The main reasons to visit Slovakia are its natural beauty, vivid history and great opportunities for relaxation (and due to the small size of the country, it is quite easy to combine all three).\n\nSlovakia has nine national parks, which cover a  relatively big portion of the country and feature the tallest part of the Carpathian Mountain Range, the [[High Tatras]], which offer great opportunities for mountain and winter sports as well as great vistas. Geologically, a sizable part of Slovakia is made out of limestone, which in combination with many springs and rivers has resulted in formation of numerous caves (12 open to the public, several of which are UNESCO listed) and the beautiful rocky formations, canyons and waterfalls of the [[Slovak Paradise]] and [[Slovak Karst]]. Even outside these areas, there are some beautiful landscapes, and all of Slovakia is covered by thousands of well-marked hiking trails.\n\nFor history lovers, Slovakia has the highest number of castles and chateaux per capita in the world, ranging from simple ruins to well-preserved habitable castles with furnishings, so if you are a fan of medieval history, look no further. There are also numerous [[Gothic]] and Baroque cities and towns across Slovakia, including the capital. There are also well-preserved examples of wooden folk architecture, including churches made entirely out of wood and the tallest wooden altar in the world.\n\nThere are numerous mineral and thermal springs in Slovakia, and around some of these world-famous spas have been built that offer great curative therapies or just simple relaxation. You can also chill out, swim and sunbathe at the shores of several local lakes and pools or try AquaCity waterpark if you are feeling more adventurous. In particular, [[Bratislava]] boasts a lively nightlife as well and is a popular partying destination.\n\n",
+                         "first_layer_region_names": [
+                              "[[Western Slovakia]]",
+                              "[[Central Slovakia]]",
+                              "[[Eastern Slovakia]]"
+                         ]
+                    },
+                    {
+                         "title": "Slovenia",
+                         "id": "33069",
+                         "description": "\n{{hatnote|this article is about the former part of Yugoslavia, for the former part of Czechoslovakia see [[Slovakia|here]]}}\n'''[http://www.slovenia.info Slovenia]''' ([[Slovenian phrasebook|Slovenian]]: ''Slovenija'') is a country in [[Central Europe|Central]] [[Europe]] that lies in the eastern [[Alps]] at the northern end of the Adriatic Sea. Despite its small size, Slovenia has a surprising variety of terrain, ranging from the beaches of the Mediterranean to the peaks of the Julian Alps, to the rolling hills of the south. Slovenia was already more economically advanced than other nations behind the iron curtain prior to European integration and the powerhouse of Tito's Yugoslavia. Contrary to the popular misconception, Slovenia was not a part of the Eastern bloc (not after the Yugoslavian notorious split with the Soviet Union in 1948). Added the fact that Slovenia is also home to some of the finest scenery in the &quot;New Europe&quot;, the transition from socialism to the European common market economy has gone well and serves as a model for other nations on the same track to follow.\n\n",
+                         "first_layer_region_names": [
+                              "[[Coast and Karst]]",
+                              "[[Julian Alps]]",
+                              "[[Central Slovenia]]",
+                              "[[Southeastern Slovenia]]",
+                              "[[Pohorje-Savinjska]]",
+                              "[[Eastern Slovenia]]"
+                         ]
+                    },
+                    {
+                         "title": "Switzerland",
+                         "id": "34835",
+                         "description": "\n'''[https://www.myswitzerland.com Switzerland]''' ([[German phrasebook|German]]: ''Schweiz'', [[French phrasebook|French]]: ''Suisse'', [[Italian phrasebook|Italian]]: ''Svizzera'', Romansch: ''Svizra''), officially the '''Swiss Confederation''' (Latin: ''Confoederatio Helvetica'', hence the abbreviation &quot;CH&quot;) is a mountainous country in [[Central Europe]].\n\nSwitzerland is known for its mountains ([[Alps]] in the south, [[Jura]] in the northwest) but it also has a central plateau of rolling hills, plains, and large lakes. The highest point is Dufourspitze at 4,634&amp;nbsp;m (15,203&amp;nbsp;ft) while [[Lake Maggiore]] is only 195&amp;nbsp;m (636&amp;nbsp;ft) above sea level, and the temperate climate varies greatly with altitude.\n\nSwitzerland is intrinsically more culturally diverse than perhaps any other European country. It has four national languages which have historically been dominant in various regions, or ''cantons''. German, French and Italian are spoken in the regions bordering the respective country, and Romansch - a language of Swiss origin - spoken in the mountainous area of [[Graub\u00fcnden]]. Switzerland also has one of the proportionally largest expat/immigrant populations - literally every fourth resident (25.1% as of 2018) of the almost 8.5 million inhabitants is a foreign national - consisting of almost all of the world's nationalities and ethnic groups. Renowned for tolerance, neutrality and direct democracy, as well as almost-legendary affluence, Switzerland has one of the highest standards of living in the world - and prices to match.\n\nSwitzerland can be a glorious whirlwind trip whether you've packed your hiking boots, snowboard, or just a good book and a pair of sunglasses.\n\n",
+                         "first_layer_region_names": [
+                              "[[Western Switzerland]]",
+                              "[[Berne Region]]",
+                              "[[Bernese Highlands]]",
+                              "[[Central Switzerland]]",
+                              "[[Northwestern Switzerland]]",
+                              "[[Zurich (region)|Z\u00fcrich]]",
+                              "[[Eastern Switzerland]]",
+                              "[[Graub\u00fcnden]]",
+                              "[[Ticino]]"
+                         ]
+                    }
+               ],
+               "description": "Germanic culture meets Slavic culture in this region that straddles east and west, with historic towns, fairy-tale castles, beer, forests, unspoiled farmland, and mountain ranges, including the mighty [[Alps]]."
+          },
+          {
+               "name": "Other - [[France]] and [[Monaco]]",
+               "countries": [
+                    {
+                         "title": "France",
+                         "id": "11954",
+                         "description": "\n'''[http://www.franceguide.com/ France]''' is a country with which almost every traveller has a relationship. Many dream of its ''joie de vivre'' shown by the countless caf\u00e9s, [[Les Plus Beaux Villages de France|picturesque villages]] and world-famous [[French cuisine|gastronomy]]. Some come to follow the trail of France's great philosophers, writers and artists, or to immerse in the beautiful language it gave the world. And others still are drawn to the country's geographical diversity, with its long coastlines, massive mountain ranges and breathtaking farmland vistas.\n\nFrance has been the world's most-visited country for over twenty years. It received 89 million visitors in 2018. All these people come to France for many a reason: its cities contain some of the greatest treasures on the continent, its countryside is prosperous and well-tended, and it boasts dozens of major tourist attractions, including Europe's most popular, [[Disneyland Paris]]. France is one of the most geographically diverse countries in Europe, containing areas as different from each other as urban chic [[Paris]], the sunny [[French Riviera]], windswept Atlantic beaches, the snowy resorts of the [[French Alps]], the Renaissance ch\u00e2teaux of the [[Loire Valley]], rugged Celtic [[Brittany]] and the historian's dream that is [[Normandy]].\n\nThe '''French Republic''' (''R\u00e9publique fran\u00e7aise'') is a country of rich emotions and turbulent politics but also a place of rational thinking and Enlightenment treasures. Above all, it is renowned for its cuisine, culture and history. Whatever you want from a holiday, you're about to find it in France.\n\n",
+                         "first_layer_region_names": [
+                              "[[Auvergne-Rh\u00f4ne-Alpes]]",
+                              "[[Bourgogne-Franche-Comt\u00e9]]",
+                              "[[Brittany]]",
+                              "[[Centre-Val de Loire]]",
+                              "[[Corsica]]",
+                              "[[Grand-Est]]",
+                              "[[Hauts-de-France]]",
+                              "[[\u00cele-de-France]]",
+                              "[[Normandy]]",
+                              "[[Nouvelle-Aquitaine]]",
+                              "[[Occitanie]]",
+                              "[[Pays de la Loire]]",
+                              "[[Provence-Alpes-C\u00f4te d'Azur]]"
+                         ]
+                    },
+                    {
+                         "title": "Monaco",
+                         "id": "22688",
+                         "description": "\nThe '''[http://www.visitmonaco.com/ Principality of Monaco]''' ([[French phrasebook|French]]: ''Principaut\u00e9 de Monaco'') is a wealthy city-state on the Mediterranean Sea, bounded by the [[French Riviera]]. Though tiny, the country is packed with entertainment for those with money to burn: think yachts and casinos, plus the annual Formula 1 Grand Prix.\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    }
+               ],
+               "description": "France is the world's most popular destination and one of the most geographically diverse countries of Europe. Attractions include [[Paris]], picturesque [[Provence]], the [[French Riviera|Riviera]], Atlantic beaches, winter sports resorts of the [[French Alps|Alps]], [[castles]], rural landscape, and its gastronomy (particularly [[wine]]s and [[cheese]]s), history, culture and fashion."
+          },
+          {
+               "name": "Other - [[Greece]], [[Turkey]], [[Cyprus]] and [[Northern Cyprus]]",
+               "countries": [
+                    {
+                         "title": "Greece",
+                         "id": "13351",
+                         "description": "\n'''[http://www.visitgreece.gr/ Greece]''' ([[Greek phrasebook|Greek]]: \u0395\u03bb\u03bb\u03ac\u03c2, ''Hellas'' or \u0395\u03bb\u03bb\u03ac\u03b4\u03b1, ''Ellada'') is a country in southeastern Europe, on the southern tip of the [[Balkans|Balkan]] peninsula. [[Ancient Greece]] was one of Europe's first urban civilizations, and the origin of much of the arts, language, philosophy, politics, and sports of western society. The cultural heritage and spectacular mountains and beaches draw tourists from far away.\n\nMuch of the country consists of peninsulas and islands in the Aegean, Ionian, and Mediterranean Seas. \n\n",
+                         "first_layer_region_names": [
+                              "The [[Peloponnese]]",
+                              "[[Central Greece]]",
+                              "[[Thessaly]]",
+                              "[[Northern Greece]]",
+                              "[[Epirus]]",
+                              "[[Greek Islands]]",
+                              "[[Crete]]"
+                         ]
+                    },
+                    {
+                         "title": "Turkey",
+                         "id": "36939",
+                         "description": "\n{{otheruses}}\n\n[http://www.goturkey.com/ '''Turkey'''] ([[Turkish phrasebook|Turkish]]: ''T\u00fcrkiye'') is a bi-continental country: while geographically most of the country is situated in [[Asia]], most Turkish people consider themselves to be [[Europe]]ans.\n\nTurkey offers a wealth of destination varieties to travellers: from dome-and-minaret filled skyline of [[Istanbul]] to Roman ruins along the [[Aegean Turkey|western]] and [[Mediterranean Turkey|southern]] coasts, from heavily indented coastline against a mountainous backdrop of [[Lycia]] and wide and sunny beaches of [[Pamphylia]] to cold and snowy mountains of the [[Eastern Anatolia|East]], from crazy &quot;foam parties&quot; of [[Bodrum]] to Middle Eastern-flavoured cities of [[Southeastern Anatolia]], from verdant misty mountains of [[Eastern Karadeniz|Eastern Black Sea]] to wide steppe landscapes of [[Central Anatolia]], there is something for everyone's taste&amp;mdash;whether they be travelling on an extreme budget by hitchhiking or by a multi-million yacht.\n\n",
+                         "first_layer_region_names": [
+                              "[[Aegean Turkey]]",
+                              "[[Black Sea Turkey]]",
+                              "[[Central Anatolia]]",
+                              "[[Eastern Anatolia]]",
+                              "[[Marmara (region)|Marmara Region]]",
+                              "[[Mediterranean Turkey]]",
+                              "[[Southeastern Anatolia]]"
+                         ]
+                    },
+                    {
+                         "title": "Cyprus",
+                         "id": "8813",
+                         "description": "\n'''[http://www.visitcyprus.org.cy/ Cyprus]''' ([[Greek phrasebook|Greek]]: ''\u039a\u03cd\u03c0\u03c1\u03bf\u03c2'', [[Turkish phrasebook|Turkish]]: ''K\u0131br\u0131s'') is an island in the eastern Mediterranean Sea, south of [[Turkey]]. It offers beautiful beaches and extensive historical and archaeological sites.\n\n'''There are three politically distinct areas in the island''': the '''Republic of Cyprus''' (a member of the European Union) is a state with wide international recognition. However it only controls territory in the south. The '''Turkish Republic of [[Northern Cyprus]]''' is functionally a separate country, though it receives diplomatic recognition only from Turkey. The '''British military sovereign base areas''' of [[Akrotiri and Dhekelia]], while legally separate from either republic, have open borders with the Republic of Cyprus.\n\n{{disclaimerbox|This article covers only the island's southern territory administered by the '''Republic of Cyprus'''. Information regarding the remainder of the island is given in the [[Northern Cyprus]] article. ''This is a practical distinction and not an endorsement of either side's claim in the dispute.''}}\n\n",
+                         "first_layer_region_names": [
+                              "[[Famagusta district (South)|Famagusta]]",
+                              "[[Larnaca district|Larnaca]]",
+                              "[[Limassol district|Limassol]]",
+                              "[[Nicosia district (South)|Nicosia]]",
+                              "[[Paphos district|Paphos]]",
+                              "[[Akrotiri and Dhekelia]]"
+                         ]
+                    },
+                    {
+                         "title": "Northern Cyprus",
+                         "id": "25027",
+                         "description": "\nThe '''Turkish Republic of Northern Cyprus''' (TRNC, Turkish ''Kuzey K\u0131br\u0131s T\u00fcrk Cumhuriyeti'') is a republic on the northern and eastern side of the island of [[Cyprus]], an island in the Mediterranean Sea, south of [[Turkey]].\n\n{{disclaimerbox|As the two regions are nearly completely separate from a traveller's point of view, this article will concentrate on the northern territory governed by the Turkish Republic of Northern Cyprus. ''This is not a political endorsement of claims by either side in the dispute.'' For travel information regarding the remainder of Cyprus, visit the [[Cyprus]] article.}}\n\n",
+                         "first_layer_region_names": [
+                              "[[Famagusta district (North)|Famagusta district]]",
+                              "[[Kyrenia district]]",
+                              "[[Nicosia district (North)|Nicosia district]]"
+                         ]
+                    }
+               ],
+               "description": "With the most hours of sun in Europe, the Eastern Mediterranean is a haven for beach-goers, party-people and cultural enthusiasts alike, and is known for its rich and tasty cuisine."
+          },
+          {
+               "name": "[[Iberia]]",
+               "countries": [
+                    {
+                         "title": "Andorra",
+                         "id": "1143",
+                         "description": "\n'''[http://visitandorra.com/en/ Andorra]''' is a small, mountainous country in Western [[Europe]], located up in the [[Pyrenees]] between [[France]] and [[Spain]]. Full of beautiful mountains and charming old villages, the country thrives on tourism, mainly visitors from nearby countries who come for shopping, skiing, hiking, and banking.\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    },
+                    {
+                         "title": "Gibraltar",
+                         "id": "12689",
+                         "description": "\n'''[http://www.visitgibraltar.gi Gibraltar]''', colloquially known as ''The Rock'' or ''Gib'', is an overseas territory of the [[United Kingdom]] at the entrance to the Mediterranean Sea. It is bordered by [[Spain]] to the north; [[Morocco]] is a short distance across the strait to the south. Gibraltar has a population of 32,000.\n{{quickbar|location=LocationGibraltar.png}}\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    },
+                    {
+                         "title": "Portugal",
+                         "id": "28275",
+                         "description": "\n'''[http://www.visitportugal.com Portugal]''' is on the western edge of the [[Iberia|Iberian peninsula]]. Despite its small land area, it has many landforms and climates between the Atlantic coast and the mountains. Portugal has plenty of [[prehistoric Europe|prehistoric sites]], as well as remnants from the [[Roman Empire]], and the Age of Exploration, when Portuguese explorers found the [[Cape Route]] around Africa, and completed [[Magellan-Elcano circumnavigation|the world's first circumnavigation]].\n\n",
+                         "first_layer_region_names": [
+                              "[[Northern Portugal]]",
+                              "[[Central Portugal]]",
+                              "[[Lisbon Region]]",
+                              "[[Alentejo]]",
+                              "[[Algarve]]",
+                              "[[Azores]]",
+                              "[[Madeira]]"
+                         ]
+                    },
+                    {
+                         "title": "Spain",
+                         "id": "33817",
+                         "description": "\n'''[http://www.spain.info Spain]''' ([[Spanish phrasebook|Spanish]]: ''Espa\u00f1a'') shares the [[Iberia]]n Peninsula with [[Andorra]], [[Gibraltar]], and [[Portugal]]. It has the second-largest number of [[UNESCO World Heritage List|UNESCO World Heritage Sites]] after [[Italy]] and the largest number of World Heritage Cities.\n\nSpain is famous for its friendly inhabitants, relaxed lifestyle, its cuisine, vibrant nightlife, and world-famous folklore and festivities, and its history as the core of the vast Spanish Empire.\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    }
+               ],
+               "description": "These countries are great destinations for their rich and unique cultures, lively cities, beautiful countryside and friendly inhabitants."
+          },
+          {
+               "name": "Italian Peninsula",
+               "countries": [
+                    {
+                         "title": "Italy",
+                         "id": "15920",
+                         "description": "\n'''[http://www.italia.it/en/home.html Italy]''' ([[Italian phrasebook|Italian]]: ''Italia''), officially the '''Italian Republic''' (''Repubblica italiana''), is a country in Southern Europe, occupying the Italian Peninsula and the Po Valley south of the [[Alps]]. Once the core of the mighty [[Roman Empire]], and the cradle of the [[Medieval and Renaissance Italy|Renaissance]], it is also home to the greatest number of [[UNESCO World Heritage List|UNESCO World Heritage Sites]] in the world, including high art and monuments.\n\nItaly is famous for [[Italian cuisine|its delicious cuisine]], trendy fashions, luxury sports cars and motorcycles, diverse regional cultures and dialects, as well as for its various landscapes from the seas to the Alps and Apennines, which makes reason for its nickname ''Il Bel Paese'' (the Beautiful Country).\n\n",
+                         "first_layer_region_names": [
+                              "[[Northwest Italy]]",
+                              "[[Northeast Italy]]",
+                              "[[Central Italy]]",
+                              "[[Southern Italy]]",
+                              "[[Sicily]]",
+                              "[[Sardinia]]"
+                         ]
+                    },
+                    {
+                         "title": "Malta",
+                         "id": "21029",
+                         "description": "\n'''[http://www.visitmalta.com/ Malta]''' is a country composed of three islands south of [[Sicily]].\n\nMalta has a long and rich history; the Phoenicians, the Carthaginians, the Romans and the Byzantines were all here, leaving a mix of many different architectural styles and artifacts to explore.\n\nThere are also a number of aquatic activities to enjoy. Northern Malta is home to the country's beach resorts and holiday areas. [[Gozo]] and [[Comino]], the country's two smaller islands, are also popular beach spots, although these tend to be quieter, rockier and better for snorkelling. The Mediterranean Sea surrounding Malta is popular for diving, and experienced divers may be able to find historical artifacts from World War II or earlier.\n\n",
+                         "first_layer_region_names": [
+                              "[[Malta Island]]",
+                              "[[Comino]]",
+                              "[[Gozo]]"
+                         ]
+                    },
+                    {
+                         "title": "San Marino",
+                         "id": "31252",
+                         "description": "\n{{otheruses}}\n'''[http://www.visitsanmarino.com San Marino]''' (known as the '''Most Serene Republic of San Marino''', [[Italian]]: ''Serenissima Repubblica di San Marino'') completely surrounded by [[Italy]], is one of the world's smallest countries, and claims to be the world's oldest republic. The country bears the name of Saint Marinus, a Christian stonemason who is said to have founded the country in 301 AD.\n\nMost cultural attractions are in the capital city, which is also named San Marino. At the top of a mountain, the City of San Marino is full of old buildings, restaurants, and stores catering to tourists, as well as several small museums, and has beautiful views of the nearby towns and surrounding countryside.\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    },
+                    {
+                         "title": "Rome/Vatican",
+                         "id": "30027",
+                         "description": "\n{{Quickbar|location=LocationVaticanCity.png}}\n{{Translate|es|Ciudad del Vaticano}}\nThe '''[http://www.vaticanstate.va/ Vatican City]''' ([[Italian phrasebook|Italian]]: ''Citt\u00e0 del Vaticano''; Latin: ''Civitas Vaticana'') is the world's smallest country both by area and by population, and is the center of Catholicism. As a district of Rome, it encompasses the '''Vatican City State''' (Italian: ''Stato della Citt\u00e0 del Vaticano''; Latin: ''Status Civitatis Vaticanae''), as well as the surrounding Roman neighborhoods of '''Borgo''' and '''Prati'''. St. Peter's Basilica, the Vatican Museums and the Sistine Chapel are all in Vatican City. This tiny country completely within [[Rome]] is packed with more history and artwork than most cities in the world, and indeed many countries.\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    }
+               ],
+               "description": "[[Rome]], [[Florence]], [[Venice]] and [[Pisa]] are on many travellers' itineraries, but these are just a few of Italy's destinations. Italy has more history and culture packed into it than many other countries combined."
+          },
+          {
+               "name": "[[Nordic countries]]",
+               "countries": [
+                    {
+                         "title": "Denmark",
+                         "id": "9318",
+                         "description": "\n{{quickbar|location=LocationDenmark.png}}\n'''[http://visitdenmark.com/ Denmark]''' ([[Danish phrasebook|Danish]]: ''Danmark'') is the smallest of the [[Nordic countries]]. Once the seat of Viking raiders and later a major north European naval power, the Kingdom of Denmark is the oldest kingdom in the world still in existence, but has evolved into a democratic, modern, and prosperous nation.\n\nThese days, the Danish Vikings have parked their ships in the garage and put the helmets on the shelves, and along with the other Scandinavian nations, have forged a society that is often seen as a benchmark of civilisation; with progressive social policies, a commitment to free speech so strong it put the country at odds with much of the world during the 2006 cartoon crisis, a liberal social-welfare system and, according to ''The Economist'', one of the most commercially competitive. Top it off with a rich, well-preserved cultural heritage, and the Danes' legendary sense of design and architecture, and you have one intriguing holiday destination.\n\nDubbed in various surveys and polls throughout the years as the &quot;happiest country in the world&quot;, it is often pictured as a romantic and safe place, likely linked to Hans Christian Andersen as a &quot;fairy tale&quot; on its own. Of course much more lies beneath the surface, but for the traveller, Denmark is likely to prove convenient, safe, clean, but also quite expensive to visit.\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    },
+                    {
+                         "title": "Faroe Islands",
+                         "id": "11447",
+                         "description": "\nThe '''[http://www.visitfaroeislands.com/ Faroe or Faeroe Islands]''' (in [[Faroese phrasebook|Faroese]]: ''F\u00f8royar'', [[Danish phrasebook|Danish]]: ''F\u00e6r\u00f8erne'') are 18 islands in the middle of the North Atlantic Ocean.\n\nWhen visiting the Faroes you are never more than 5&amp;nbsp;km (3&amp;nbsp;mi) away from the ocean. The countryside is dominated by steep mountains and there are about 70,000 sheep and some 2 million pairs of sea birds, including the largest colony of storm petrels in the world. The Faroe Islands are undeniably beautiful: green, rugged and wind-swept. Most visitors to the islands come between early July and late August.\n\n",
+                         "first_layer_region_names": [
+                              "[[Northern Islands]] (''Nor\u00f0oyar'')",
+                              "[[Eysturoy]]",
+                              "[[Northern Streymoy]]",
+                              "[[Southern Streymoy]]",
+                              "[[V\u00e1gar]]",
+                              "[[Sandoy]]",
+                              "[[Su\u00f0uroy]]"
+                         ]
+                    },
+                    {
+                         "title": "Finland",
+                         "id": "11615",
+                         "description": "\n'''[http://www.visitfinland.com/ Finland]''' ([[Finnish phrasebook|Finnish]]: ''Suomi'', [[Swedish phrasebook|Swedish]]: ''Finland'') is one of the [[Nordic countries]] in northern [[Europe]].\n\nThe country has comfortable small towns and cities, as well as vast areas of unspoiled nature. About 10% of the area is made up by 188,000 lakes, with a similar number of islands.\n\nFinland extends into the [[Arctic]], where the [[Northern Lights]] and the [[Midnight Sun]] can be seen. The mythical mountain of ''Korvatunturi'' is said to be the home of Santa Claus, and there is a Santaland in [[Rovaniemi]].\n\nWhile Finland is a high-technology welfare state, Finns love to head to their summer cottages in the warmer months to enjoy all manner of relaxing pastimes including sauna, swimming, fishing and barbecuing during the short but bright summer. Finland has a distinctive language and culture that sets it apart from the rest of Nordic Europe. While Finnish culture is ancient, the country became independent only in 1917.\n\n",
+                         "first_layer_region_names": [
+                              "Other"
+                         ]
+                    },
+                    {
+                         "title": "Iceland",
+                         "id": "15369",
+                         "description": "\n'''[https://www.ferdamalastofa.is/en Iceland]''' ([[Icelandic phrasebook|Icelandic]]: ''\u00cdsland'') is an island nation in the north Atlantic Ocean. Iceland is one of the [[Nordic countries]], and therefore culturally part of [[Europe]]. The name ''Iceland'' is a misnomer: while glaciers cover 10% of the land, climate is mild, and volcanic activity keeps the country warm. Settled during the [[Vikings and the Old Norse|Viking Age]], Iceland has the world's oldest surviving parliament, the ''Al\u00feingi''. It is known as the Land of Fire and Ice.\n\n",
+                         "first_layer_region_names": [
+                              "[[Southwest Iceland]]",
+                              "[[Westfjords|West Fjords]]",
+                              "[[West Iceland]]",
+                              "[[North Iceland]]",
+                              "[[East Iceland]]",
+                              "[[South Iceland]]",
+                              "[[Interior (Iceland)|Interior]]"
+                         ]
+                    },
+                    {
+                         "title": "Norway",
+                         "id": "25339",
+                         "description": "\n[http://www.visitnorway.com/ '''Norway'''] ([[Norwegian phrasebook|Norwegian]]: ''Norge'' or ''Noreg'') is the westernmost, northernmost \u2014 and surprisingly also the easternmost \u2014 of the three [[Scandinavia]]n countries. Norway is known for the complex and deep fjords along its west coast, as well as the midnight sun and [[Northern Lights]].\n\nThe overall impression of Norway is a country with ample space and unusually rugged landscape. While famous for the great [[Norway#Fjords|fjords]] along the Atlantic, the interior also has great valleys, wide forests and fjord-like lakes. Norway is one of the most mountainous countries in [[Europe]]. Water in all varieties is perhaps what characterizes Norway most: The endless coastline, the great fjords, countless waterfalls, crystal rivers, lovely lakes and numerous glaciers.\n\nAlthough the great outdoors is Norway's number 1 attraction, there are also many interesting and lively cities like [[Oslo]] and [[Bergen]]. Man-made attractions include Norway's cultural heritage as well as modern structures and architecture - often found in cities but also in terms of impressive engineering in remote corners.\n\n",
+                         "first_layer_region_names": [
+                              "[[East Norway]]",
+                              "[[Tr\u00f8ndelag]]",
+                              "[[Northern Norway]]",
+                              "[[Agder]]",
+                              "[[Western Norway]]",
+                              "[[Svalbard]]",
+                              "[[Jan Mayen]]"
+                         ]
+                    },
+                    {
+                         "title": "Sweden",
+                         "id": "34810",
+                         "description": "\n[http://www.visitsweden.com/sweden/ '''Sweden'''] ([[Swedish phrasebook|Swedish]]: ''Sverige'') is the largest of the [[Nordic countries]]. Visitors can experience deep forests and many lakes, the heritage from the [[Viking Age]] and the 17th-century Swedish Empire, the glamour of the Nobel Prize, and the country's successful pop music scene.\n\n",
+                         "first_layer_region_names": [
+                              "[[Norrland]]"
+                         ]
+                    }
+               ],
+               "description": "Spectacular scenery of mountains, lakes, glaciers, geysers, waterfalls and volcanoes with opportunity for outdoor life, known for the [[Vikings and the Old Norse|Viking Age]] around AD&amp;nbsp;1000. Also known for being bastions of progressive politics with the world's highest tax rates and most comprehensive welfare states."
+          },
+          {
+               "name": "Other - [[Russia]], [[Ukraine]], and [[Belarus]]",
+               "countries": [
+                    "[[Russia]]",
+                    "[[Ukraine]]",
+                    "[[Belarus]]"
+               ],
+               "description": "Russia is a vast country that spans all the way [[Russian Far East|east]] to the Pacific Ocean. Ukraine is diverse, with a lot to offer, from the beach resorts of the Black Sea to the beautiful cities [[Odessa]], [[Lviv]], and [[Kiev]]. Belarus, sometimes called &quot;Europe's last dictatorship&quot;, is the largest remaining Soviet-style country in the world."
+          }
+     ]
+}
