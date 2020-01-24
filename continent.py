@@ -1,22 +1,10 @@
 import additional_function
 import re
-class Continent():
-    def _get_description(self):
-        pattern = r"<text.+>.+((?s:.)+?)(==)"
-        result = re.search(pattern, self.dump)
-        return result.group(1)
+import countries_region
+import item
+class Continent(item.Item):
 
-    def _get_name(self):
-        pattern = r"<title>(.+)</title>"
-        result = re.search(pattern, self.dump)
-        return result.group(1)
-
-    def _get_id(self):
-        pattern = r"<id>(.+)</id>"
-        result = re.search(pattern, self.dump)
-        return result.group(1)
-
-    def _get_countries_regions(self):
+    def _get_countries_regions(self) -> list:
         def region_parse(dump):
             region = {}
             pattern = r"name(?:\s|)=(?:\s|)(.+)"
@@ -42,23 +30,23 @@ class Continent():
             pattern = r"description=(.+)"
             result = re.search(pattern, dump)
             region["description"] = result.group(1)
-
-            return region
+            countries_re = countries_region.CountriesRegion(region["name"] ,region["description"], region["countries"])
+            return countries_re
         pattern = r"(\|(?:\s|)region\d+name(?s:.)+?)(\n\n)"
-        regions = re.findall(pattern, self.dump)
+        regions = re.findall(pattern, self._dump)
 
         countries_regions = []
         for region in regions:
             parsed_region = region_parse(region[0])
             countries_regions.append(parsed_region)
         return countries_regions
-    def __init__(self, name, full_dump):
-        self.dump = additional_function.get_one_item(name, full_dump)
-        self.description = self._get_description()
-        self.name = self._get_name()
-        self.id = self._get_id()
+
+    def __init__(self, name: str, full_dump:str):
+        super().__init__(name, full_dump)
         self.countries_regions = self._get_countries_regions()
 
 
 
-
+full_dump = additional_function.get_dump("main.xml")
+continent = Continent("Europe", full_dump)
+pass

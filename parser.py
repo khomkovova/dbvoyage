@@ -604,7 +604,6 @@ def parse_country(country_name):
 
     except Exception as e:
         country["first_layer_region_names"].append("Other")
-    country["description"] = result.group(1)
 
     return country
 
