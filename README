@@ -147,11 +147,8 @@ curl -H "Content-Type: application/json" -X POST localhost:8080/mutate?commitNow
         "1-name"
       ]
     }
-  }
-}
-
-
-{
+  }2
+  {
   "uid": "_:alice",
   "name": "Alice",
   "friend": {
@@ -159,5 +156,19 @@ curl -H "Content-Type: application/json" -X POST localhost:8080/mutate?commitNow
     "name": "Betty"
   }
 }
+  
+  
+curl -H "Content-Type: application/json" -X POST localhost:8080/mutate?commitNow=true -d $'{
+  "query": "{ var(func: uid(0x9)) {starring {v as uid}}}",
+
+  "set": {
+    "uid": "uid(v)",
+    "name": "WTFFFFF"
+  }
+}' | jq
+}
+
+
+
 README.txt
 Відображається "README.txt".
