@@ -168,6 +168,24 @@ curl -H "Content-Type: application/json" -X POST localhost:8080/mutate?commitNow
 }' | jq
 }
 
+query = """{ 
+var(func: uid(0x9))
+ {
+ starring {
+ v as uid
+ }
+ }
+ }"""
+p = {
+    "uid": "uid(v)",
+    'name': 'WTF222',
+}
+
+
+mutation = pydgraph.Mutation(commit_now=True, set_json=json.dumps(p).encode('utf8'))
+request = txn.create_request(query=query, mutations=[mutation], commit_now=True)
+a = txn.do_request(request)
+
 
 
 README.txt
